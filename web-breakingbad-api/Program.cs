@@ -15,7 +15,7 @@ namespace web_breakingbad_api
         {
             CreateHostBuilder(args).Build().Run();
         }
-        //KÖTTFEJS
+        //KÖTTFEJS, DUJA PONTUS
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
